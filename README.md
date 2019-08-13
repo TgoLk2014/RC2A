@@ -1,4 +1,4 @@
 # RC2A
-Turma RC2B
-Thiago Tomazini Diniz
-RA 1900588
+Turma RC2B<br/>
+Thiago Tomazini Diniz<br/>
+RA 1900588<br/>
